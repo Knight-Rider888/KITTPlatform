@@ -1,0 +1,3 @@
+include ':PLATFORM'
+include ':app'
+rootProject.name = "KITTPlatform"
